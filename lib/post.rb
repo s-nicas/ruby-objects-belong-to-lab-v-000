@@ -3,5 +3,6 @@ attr_accessor :title
 
   def initalize(title, author)
     @title = title
-    author = author 
+    author = author
+  end 
 end
