@@ -3,6 +3,7 @@ class Song
 
   def initalize(title, artist)
     @title = title
-    @artist = artist 
+    @artist = artist
   end
+  
 end
